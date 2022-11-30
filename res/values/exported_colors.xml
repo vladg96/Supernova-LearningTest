@@ -197,10 +197,10 @@
     <color name="semantic_opportunity_opportunity_border">#ff6addc6</color>
     <color name="semantic_opportunity_opportunity_background">#ffd5f6ef</color>
 
-    <color name="semantic_sale_sale_70_background">#fff6be41</color>
-    <color name="semantic_sale_sale_50_background">#ffde638b</color>
-    <color name="semantic_sale_sale_30_background">#ff58c1b2</color>
-    <color name="semantic_sale_sale_color">#ffffffff</color>
+    <color name="semantic_sale_sale_70_background">#ffac7d13</color>
+    <color name="semantic_sale_sale_50_background">#ffb51d4e</color>
+    <color name="semantic_sale_sale_30_background">#ff5869c1</color>
+    <color name="semantic_sale_sale_color">#ffb7b7b7</color>
 
 
 </resources>
