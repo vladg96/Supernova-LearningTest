@@ -300,6 +300,46 @@ const tinyParagraph = {
                         css: "0px"
                        },
          };
+const impactLabel = {
+           fontFamily: "Impact Label",
+           fontStyle: "normal",
+           fontWeight: 400,
+           fontSize: {
+                      measure: 13,
+                      unit: "Pixels",
+                      css: "13px"
+                     },
+           letterSpacing: {
+                             measure: 0,
+                             unit: "Percent",
+                             css: "0%"
+                            },
+           textIndent: {
+                        measure: 0,
+                        unit: "Pixels",
+                        css: "0px"
+                       },
+         };
+const poppins = {
+           fontFamily: "Poppins",
+           fontStyle: "normal",
+           fontWeight: 400,
+           fontSize: {
+                      measure: 13,
+                      unit: "Pixels",
+                      css: "13px"
+                     },
+           letterSpacing: {
+                             measure: 0,
+                             unit: "Percent",
+                             css: "0%"
+                            },
+           textIndent: {
+                        measure: 0,
+                        unit: "Pixels",
+                        css: "0px"
+                       },
+         };
 
 
 export const Typographies = {
@@ -315,4 +355,8 @@ export const Typographies = {
       paragraph,
       smallParagraph,
       tinyParagraph,
+  /** typewriter font test */
+      impactLabel,
+  /** importing test */
+      poppins,
 }

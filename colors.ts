@@ -10,7 +10,7 @@ const paletteGreenGreen300 = "#a9e297";
 const paletteGreenGreen200 = "#ccf0c2";
 const paletteGreenGreen100 = "#ddf3d9";
 const paletteGreenGreen0 = "#eef9ec";
-const paletteBlueBlue1100 = "#082036";
+const paletteBlueBlue1100 = "#00213f";
 const paletteBlueBlue1000 = "#18395d";
 const paletteBlueBlue900 = "#245685";
 const paletteBlueBlue800 = "#306ca5";
@@ -166,6 +166,116 @@ const semanticSaleSale50Background = "#b51d4e";
 const semanticSaleSale30Background = "#5869c1";
 const semanticSaleSaleColor = "#b7b7b7";
 const semanticPrimaryPrimaryBackground = "#6b62cc";
+const newStyle = "#0e2a21";
+const darkBlue = "#ff0000";
+const token1 = "#ffffff";
+const foregroundNeutralFaded = "#606981";
+const foregroundPlaceholder = "#7f8694";
+const backgroundNeutralHighlighted = "#182d6614";
+const backgroundPageFaded = "#fafafa";
+const backgroundCritical = "#e22c2c";
+const backgroundPositive = "#118850";
+const backgroundBlur = "#fffffff2";
+const backgroundBlurNeutral = "#f4f5f7f2";
+const backgroundBlurNeutralHighlighted = "#ecedf0f2";
+const borderNeutralFaded = "#eceef3";
+const borderCriticalFaded = "#fbd5d8";
+const borderPositiveFaded = "#cdedd5";
+const borderUpgradeFaded = "#e3dbfa";
+const borderDisabled = "#dfe2ea";
+const borderFocus = "#4589ff";
+const decorativeCyanForeground = "#0e7490";
+const decorativeCyanBackground = "#d5fbfe";
+const decorativeFuchsiaForeground = "#b725cb";
+const decorativeFuchsiaBackground = "#fcf0ff";
+const decorativeGreyForeground = "#4e536a";
+const decorativeGreyBackground = "#edeff3";
+const decorativeLightGreyForeground = "#68718d";
+const decorativeLightGreyBackground = "#f6f7f9";
+const decorativeOrangeForeground = "#c2410c";
+const decorativeOrangeBackground = "#fff2e1";
+const decorativePinkForeground = "#d12372";
+const decorativePinkBackground = "#fdf0f7";
+const decorativeTealForeground = "#107a71";
+const decorativeTealBackground = "#dffdf6";
+const decorativeYellowForeground = "#a16207";
+const decorativeYellowBackground = "#fef9c3";
+const decorativeNewDecorative = "#ffffff";
+const neutral900 = "#14171f";
+const primary200 = "#edf5ff";
+const primary600 = "#0f62fe";
+const red600 = "#cb101d";
+const white = "#ffffff";
+const neutral400 = "#606981";
+const neutral500 = "#c7cddb";
+const neutral200Opaque_ = "#182d660a";
+const neutral100Opaque_ = "#141a2b05";
+const primary400 = "#d0e2ff";
+const primary700 = "#004ee1";
+const red100 = "#fef1f2";
+const green100 = "#ebfef6";
+const green600 = "#05751f";
+const purple100 = "#f5f2fd";
+const purple600 = "#874ce6";
+const purple700 = "#6a2bbf";
+const orange100 = "#fef8eb";
+const orange200 = "#fbe5c5";
+const orange500 = "#cc4d00";
+const orange600 = "#b53c0a";
+const token2 = "#ffffff";
+const foregroundNeutral = neutral900;
+const foregroundPrimary = primary600;
+const foregroundCritical = red600;
+const foregroundWarning = orange600;
+const foregroundPositive = green600;
+const foregroundUpgrade = purple600;
+const foregroundDisabled = neutral500;
+const backgroundElevationBase = white;
+const backgroundElevationRaised = white;
+const backgroundElevationOverlay = white;
+const backgroundNeutral = neutral200Opaque_;
+const backgroundNeutralFaded = neutral100Opaque_;
+const backgroundPage = white;
+const backgroundPrimary = primary600;
+const backgroundPrimaryHighlighted = primary700;
+const backgroundPrimaryFaded = primary200;
+const backgroundCriticalHighlighted = red600;
+const backgroundCriticalFaded = red100;
+const backgroundWarning = orange500;
+const backgroundWarningHighlighted = orange600;
+const backgroundWarningFaded = orange100;
+const backgroundPositiveHighlighted = green600;
+const backgroundPositiveFaded = green100;
+const backgroundUpgrade = purple600;
+const backgroundUpgradeHighlighted = purple700;
+const backgroundUpgradeFaded = purple100;
+const backgroundDisabled = neutral200Opaque_;
+const backgroundDisabledFaded = neutral100Opaque_;
+const backgroundFocusHighlight = primary400;
+const borderNeutral = neutral500;
+const borderPrimary = primary700;
+const borderPrimaryFaded = primary400;
+const borderCritical = red600;
+const borderWarning = orange600;
+const borderWarningFaded = orange200;
+const borderPositive = green600;
+const borderUpgrade = purple700;
+const onBackgroundNeutral = neutral900;
+const persistentBlack = neutral900;
+const decorativeBlueForeground = primary600;
+const decorativeBlueBackground = primary200;
+const decorativeGreenForeground = green600;
+const decorativeGreenBackground = green100;
+const onBackgroundPrimary = white;
+const onBackgroundCritical = white;
+const onBackgroundWarning = white;
+const onBackgroundPositive = white;
+const onBackgroundUpgrade = white;
+const persistentWhite = white;
+const decorativePurpleForeground = purple600;
+const decorativePurpleBackground = purple100;
+const decorativeRedForeground = red600;
+const decorativeRedBackground = red100;
 
 export const Colors = {
     paletteGreenGreen1100,
@@ -340,4 +450,114 @@ export const Colors = {
     semanticSaleSale30Background,
     semanticSaleSaleColor,
     semanticPrimaryPrimaryBackground,
+    newStyle,
+    darkBlue,
+    token1,
+    foregroundNeutralFaded,
+    foregroundPlaceholder,
+    backgroundNeutralHighlighted,
+    backgroundPageFaded,
+    backgroundCritical,
+    backgroundPositive,
+    backgroundBlur,
+    backgroundBlurNeutral,
+    backgroundBlurNeutralHighlighted,
+    borderNeutralFaded,
+    borderCriticalFaded,
+    borderPositiveFaded,
+    borderUpgradeFaded,
+    borderDisabled,
+    borderFocus,
+    decorativeCyanForeground,
+    decorativeCyanBackground,
+    decorativeFuchsiaForeground,
+    decorativeFuchsiaBackground,
+    decorativeGreyForeground,
+    decorativeGreyBackground,
+    decorativeLightGreyForeground,
+    decorativeLightGreyBackground,
+    decorativeOrangeForeground,
+    decorativeOrangeBackground,
+    decorativePinkForeground,
+    decorativePinkBackground,
+    decorativeTealForeground,
+    decorativeTealBackground,
+    decorativeYellowForeground,
+    decorativeYellowBackground,
+    decorativeNewDecorative,
+    neutral900,
+    primary200,
+    primary600,
+    red600,
+    white,
+    neutral400,
+    neutral500,
+    neutral200Opaque_,
+    neutral100Opaque_,
+    primary400,
+    primary700,
+    red100,
+    green100,
+    green600,
+    purple100,
+    purple600,
+    purple700,
+    orange100,
+    orange200,
+    orange500,
+    orange600,
+    token2,
+    foregroundNeutral,
+    foregroundPrimary,
+    foregroundCritical,
+    foregroundWarning,
+    foregroundPositive,
+    foregroundUpgrade,
+    foregroundDisabled,
+    backgroundElevationBase,
+    backgroundElevationRaised,
+    backgroundElevationOverlay,
+    backgroundNeutral,
+    backgroundNeutralFaded,
+    backgroundPage,
+    backgroundPrimary,
+    backgroundPrimaryHighlighted,
+    backgroundPrimaryFaded,
+    backgroundCriticalHighlighted,
+    backgroundCriticalFaded,
+    backgroundWarning,
+    backgroundWarningHighlighted,
+    backgroundWarningFaded,
+    backgroundPositiveHighlighted,
+    backgroundPositiveFaded,
+    backgroundUpgrade,
+    backgroundUpgradeHighlighted,
+    backgroundUpgradeFaded,
+    backgroundDisabled,
+    backgroundDisabledFaded,
+    backgroundFocusHighlight,
+    borderNeutral,
+    borderPrimary,
+    borderPrimaryFaded,
+    borderCritical,
+    borderWarning,
+    borderWarningFaded,
+    borderPositive,
+    borderUpgrade,
+    onBackgroundNeutral,
+    persistentBlack,
+    decorativeBlueForeground,
+    decorativeBlueBackground,
+    decorativeGreenForeground,
+    decorativeGreenBackground,
+    onBackgroundPrimary,
+    onBackgroundCritical,
+    onBackgroundWarning,
+    onBackgroundPositive,
+    onBackgroundUpgrade,
+    persistentWhite,
+    decorativePurpleForeground,
+    decorativePurpleBackground,
+    decorativeRedForeground,
+    decorativeRedBackground,
 }
